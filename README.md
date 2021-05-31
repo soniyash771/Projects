@@ -1,2 +1,2 @@
 # Projects
-There are my python projects
+These all are my Python projects.
